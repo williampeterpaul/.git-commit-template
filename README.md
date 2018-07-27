@@ -1,5 +1,6 @@
 # .git-commit-template
-### Maintain a structure to your version control commit messages when contributing to a shared repository
+
+Maintain a structure to your version control commit messages when contributing to a shared repository
 
 
 ```bash 
